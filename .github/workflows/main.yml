@@ -1,0 +1,30 @@
+# Adapted from https://github.com/JamesIves/github-pages-deploy-action
+name: Build and Deploy Scroll
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2.3.1
+      - name: Install and Build
+        run: |
+          rm .gitignore
+          npm install .
+          ./scroll.js build
+          cp public/favicon.ico .
+          cd public/blog
+          npm install -g marked textile-js ya-bbcode
+          ../../scroll.js build
+          cd ..
+          cd ..
+          cd tests/kitchenSink
+          ../../scroll.js build
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: scroll-output # The branch the action should deploy to.
+          folder: .
