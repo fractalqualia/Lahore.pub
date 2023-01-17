@@ -1,0 +1,17 @@
+BStextNode
+ catchAllCellType textCell
+ cruxFromId
+ extends abstractScrollNode
+ javascript
+  compile() {
+    return `<h1 class="BStext">${this.getContent()}</h1>
+    <script>
+    setInterval(()=>{
+        Array.from(document.getElementsByClassName("BStext")).forEach(el => 
+        el.style.transform = el.style.transform === "scale(1)" ? "scale(1.5)" : "scale(1)"
+        )
+    }, 2000)
+    </script>`
+  }
+ textCell
+  text

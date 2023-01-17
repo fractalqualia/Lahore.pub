@@ -4,11 +4,11 @@ blinkNode
  crux blink
  javascript
   compile() {
-   return `<span class="scrollBlink">${super.compile()}</span>
+   return `<span class="scrollBlink" style="color:red;">${super.compile()}</span>
     <script>
     setInterval(()=>{
         Array.from(document.getElementsByClassName("scrollBlink")).forEach(el => 
-        el.style.color = el.style.color === "white" ? "black" : "white"
+        el.style.color = el.style.color === "red" ? "black" : "red"
         )
     }, 2000)
     </script>`

@@ -1,0 +1,14 @@
+importOnly
+
+## Lahorion have a great TODAY_NAME!
+author https://github.com/breck7 Breck Yunits - Editor
+author https://github.com/fractalqualia Zohaib - Co-Editor
+
+endColumns
+
+* <center> <div style="font-family: 'Montserrat', cursive; font-size: 36px; text-shadow: 2px 2px #00FF00;">Thank You For Reading!</div>
+ </center>
+
+
+
+import footer.scroll

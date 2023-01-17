@@ -1,0 +1,144 @@
+import header.scroll
+
+replace TODAY_NAME Tuesday
+replace TODAYS_DATE 1-17-2023
+replace YESTERDAYS_DATE 1-16-2023
+date 2023.01.17 
+title The Lahori Pub - TODAY_NAME, January 17th, 2023
+
+import dailyHeader.scroll
+
+## Photo of the day
+image photos/LahoreWesAnderson.jpeg
+ caption Lahore, Pakistan, A tea stall in the old city of Lahore, Pakistan in the style of Wes Anderson. Photo by @mattmccormick
+
+
+endSnippet
+
+image photos/OldLahoreChildrenNearBhattiGate.jpeg
+ caption Rendition of children playing in a neighbourhood near the Walled City
+
+
+
+## Weather 🌪🌨🌡❄️️
+treeTable
+ row
+  metric Avg Temp
+  measurment
+   10° C 🥶
+ row
+  metric Max Temp
+  measurment
+   16° C 🥶
+ row
+  metric Wind Speed
+  measurment
+   5.1 m/s 🌫
+ row
+  metric humidity
+  measurment
+   39% 💧
+
+
+
+
+## Jobs 💼
+* 2030 new jobs on Rozee.pk including WordPress Developer at 100,000 PKR per month and Senior Software Engineer at 150,000 Pkr per month
+ https://www.rozee.pk/job/jsearch/q/all/fc/1185 Rozee.pk
+
+* 1394 new jobs on LinkedIn Pakistan including Software Trainee Engineer for Fresh Graduates at CureMD
+ https://www.linkedin.com/jobs/search/?currentJobId=3439431395&geoId=101022442&keywords=programming&location=Pakistan&originalSubdomain=pk&refresh=true LinkedIn Pakistan
+
+## Housing 🏘️
+* 1816 rental listings on Zameen.com including 4 at less than 10,000 PKR per month
+ https://www.zameen.com/Rentals_Flats_Apartments/Lahore-1-1.html?sort=date_desc Zameen.com
+
+* Luxury 3BR in Gulberg for 2.5 Lakhs PKR per month
+ https://www.zameen.com/Property/gulberg_gulberg_3_amazing_semi_furnished_3_bedrooms_apartment_for_rent_in_lahore-40683634-3824-4.html Gulberg
+
+## Restaurants 🍽️
+# Maro Tandoors is gearing to REOPEN!!!
+ https://www.facebook.com/Marotandoorjt Maro
+image photos/MaroT.jpg
+ caption Maro Tandoors, the trend setter for stuffed Naans is coming back to it's place of inception! <b>Source</b>: The writer lives right next to it's original location
+
+## BBQ and Chicken 🍗
+BBQ joints all over Lahore raise prices drastically due to the acute rise in chicken prices
+
+treeTable
+ row
+  type Whole Sale Chicken
+  price
+   311 pkr/kg
+ row
+  type Retail Chicken
+  price
+   319 pkr/kg
+ source: https://lahore.punjab.gov.pk/system/files?file=poultry_510.jpeg
+
+
+## Tech •⚬𓈒🎮🛸🫱👾🫱🛸🎮𓈒⚬•
+image photos/FutureFest.jpeg
+ caption Ejad Labs announces B2B Market Access programme for Pakistani startups taking place in Saudi Arabia
+  https://ejadlabs.com/saudi Market Access programme 
+
+## Politics 📋🖋 📝
+* After the dissolution of the Punjab Assembly on January 15th, Baligh-ur-Rehman announces candidates for Caretaker Chief Minister presented by leader of the opposition, Hamza Shahbaz Sharif.
+ https://twitter.com/MBalighurRehman/status/1614938730556710913/photo/1 announces candidates
+ https://www.bloomberg.com/news/articles/2023-01-15/pakistan-punjab-legislature-dissolved-as-political-crisis-grows dissolution of the Punjab Assembly
+
+## Environment 🌳🏭😷
+* Lahore remains one of the most polluted cities in the world with the Lahore AQI at an average of 304.
+ https://www.iqair.com/pakistan/punjab/lahore Lahore AQI
+
+## Foreign Exchange 🌐💰💸
+* Banks continue to trade against the "Dar" peg of the dollar. However, the official rate for Buying is 226.36 PKR per dollar.
+ https://www.meezanbank.com/wp-content/themes/mbl/downloads/treasury/RateSheet.pdf official rate
+
+## Schools 🏫📚🏫
+* Punjab Provincial Development Working Party approves Rs5.658 billion to start afternoon school programme
+ https://www.thenews.com.pk/print/1031390-rs13bn-uplift-schemes-approved afternoon school programme
+
+* Lahore schools to perform as the Faiz Festival announces tentative schedule for upcoming edition.
+ https://www.dawn.com/news/1731971 Faiz Festival
+
+* Higher Education Commission (HEC) shuts down website mere days after launching programme offering free Coursera Courses 
+ http://www.dlsei.hec.gov.pk/ website
+
+
+## Airport @lgbairport
+ https://www.longbeach.gov/lgb/ Airport
+ https://twitter.com/lgbairport @lgbairport
+* 35+ planes arriving today: mostly from Saudi Arabia and the Middle East
+ https://lahoreairport.com.pk/Schedule.aspx arriving
+
+
+## Police @Lahorepoliceops
+ https://twitter.com/lahorepoliceops @Lahorepoliceops
+
+* Police capture <b> 92 </b> criminals in 24 hours
+ https://twitter.com/Lahorepoliceops/status/1615246266476408839
+
+* Lahore: A young man attempted suicide by setting himself on fire
+ https://www.city42.tv/17-Jan-2023/99606 attempted suicide
+
+* Police capture man for airial firing
+ https://twitter.com/Lahorepoliceops/status/1615271689390260224 airial firing
+
+## Subreddit
+ https://www.reddit.com/r/longbeach/new
+* There were 12 new posts yesterday in the Lahore including:
+* Help with Gyms in Lahore
+ https://old.reddit.com/r/Lahore/comments/10e5ybs/gyms_in_lahore/
+
+## Podcasts 🎙️
+image photos/aliaftab1.jpg
+* <div style="color: green;">Local Lahori Ali Aftab Saeed in A Show Without Name covers the state of Pakistan Women's cricket, Women's Football in Saudi Arabia, Premier League Football and the Pakistani ODI series with New Zealand </div>
+ https://www.youtube.com/watch?v=hmPNJBC7kV0 Ali Aftab Saeed in A Show Without Name
+
+
+
+import dailyFooter.scroll
+
+
+
