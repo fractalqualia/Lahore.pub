@@ -1,21 +1,22 @@
 import header.scroll
 
-replace TODAY_NAME Friday
-replace TODAYS_DATE 1-20-2023
-replace YESTERDAYS_DATE 1-19-2023
+replace TODAY_NAME Saturday
+replace TODAYS_DATE 1-21-2023
+replace YESTERDAYS_DATE 1-20-2023
 date 2023.01.19
-title The Lahori Pub - TODAY_NAME, January 20th, 2023
+title The Lahori Pub - TODAY_NAME, January 21th, 2023
 
 import dailyHeader.scroll
 
 
-## Exceptional Art 🎨🖌️🎨
+## Generated Art 🎨🖌️🎨
 
-* Original song: A man on a yellow scooter rides through Lahore trying to break his leg. In the process he asks the meaningful question: Why is a size 9 shoe indeed size 9?
- https://www.youtube.com/embed/rD7wztskQhc yellow scooter rides through Lahore
 
-youTube https://www.youtube.com/embed/rD7wztskQhc
- caption Ali  
+
+
+image photos/oldLahore2.PNG
+ caption MidJourney Generates a scene of Old Lahore with a minaret in the background.
+  photos/oldLahore2.PNG MidJourney
 
 
    
@@ -23,62 +24,83 @@ youTube https://www.youtube.com/embed/rD7wztskQhc
 endSnippet
 
 ## Photo of the day
-image photos/fatemamuhmmadshafiq.jpeg
- caption Lahore, Pakistan,Indpendent Artist Fatema Muhammad Shafiq makes 2D art. For sale in FCCU and online order. Photo by <a href="https://www.instagram.com/fatemamuhammadshafiq/" target="_blank">@fatemamuhammadshafik</a>
-   https://www.instagram.com/fatemamuhammadshafik/ Fatema Muhammad Shafiq
+image photos/MosqueInside.png
+ caption Lahore, Pakistan, 7 AM MORNINGS IN OLD LAHORE. Photo by <a href="https://twitter.com/lizayverse/status/1614874324175048704/photo/3" target="_blank">@fatemamuhammadshafik</a>
 
 
-image photos/ManThrowsFood.PNG
- caption In Lahore a snack seller’s bike hit the guys car, who got off and threw away the person’s snacks. His entire day’s income depended on selling those snacks
-  https://twitter.com/ShaykShack/status/1616076864375689216 threw away the person’s snacks
+
+* More here
+ https://twitter.com/lizayverse More here
+
+## Outrage over Bullies 🤬🤬🤬
+
+image photos/sdbullies.PNG
+ caption Scenes from Scarsdale American International School in defence Lahore, where students allegedly assaulted a fellow student for refusing to drink. 
+  https://twitter.com/MaheenFaisal20/status/1616454235096236033 assaulted a fellow student
+
 
 ## Weather 🌪🌨🌡❄️️
 treeTable
  row
   metric Avg Temp
   measurment
-   19° C 🧣
+   10° C 🧣
  row
   metric Max Temp
   measurment
-   19° C 🧣
+   10.06° C 🧣
  row
   metric Wind Speed
   measurment
-   6.17 m/s 🌫
+   2.57 m/s 🌫
  row
   metric humidity
   measurment
-   39% 💧
+   81% 💧
 
+html <div style="font-size: 15px; font-weight: bold; text-align: center; color: #0000FF; padding: 20px; background-color: #f5f5f5;">
+   <a href="https://www.urdupoint.com/pakistan/news/lahore/important-news/live-news-3441316.html" style="text-decoration: none; color: #0000FF;">Lahore to recieve multiple days of rain ahead</a>
+</div>
+
+image photos/lahorerain.png
 
 ## Jobs 💼
-* 2102 new jobs on Rozee.pk including a second shift DevOps Engineer (Azure)  and Ebay Specialist at 80,000 Pkr per month
+* 1719 new jobs on Rozee.pk including a Midwife / Lady Health Visitor Job  and Web Developer at 80 Thousand Pkr per month
  https://www.rozee.pk/job/jsearch/q/all/fc/1185 Rozee.pk
 
 
-* 1365 new jobs on LinkedIn Pakistan including Senior C++ Software Engineer at Afinity
- https://www.linkedin.com/jobs/search/?currentJobId=3439431395&geoId=101022442&keywords=programming&location=Pakistan&originalSubdomain=pk&refresh=true LinkedIn Pakistan
- https://www.linkedin.com/jobs/view/3330234584 Senior C++ Software Engineer at Afinity
+* 1648 new jobs on LinkedIn Pakistan including Software Engineer at Sortlinx 
+ https://www.linkedin.com/jobs/search/?currentJobId=3444204409&f_TPR=r86400&geoId=104112529&keywords=programming&location=Lahore%2C%20Punjab%2C%20Pakistan&originalSubdomain=pk&refresh=true Sortlinx
 
-html <div style="font-size: 22px; font-weight: bold; text-align: center; color: #333; padding: 20px; background-color: #f5f5f5;">
-    <a href="https://www.rozee.pk/free-cv-review" style="text-decoration: none; color: #333;">Get A Free CV Review</a>
-</div>
+comment html <div style="font-size: 22px; font-weight: bold; text-align: center; color: #333; padding: 20px; background-color: #f5f5f5;">
+comment    <a href="https://www.rozee.pk/free-cv-review" style="text-decoration: none; color: #333;">Get A Free CV Review</a>
+comment </div>
 
 comment <div style="font-family: 'Playball', cursive;">Sample text</div>
 
 
 ## Housing 🏘️
-* 1378 rental listings on Zameen.com including 452 sq ft 1BR in Model Town for 45 Thousand Pkr per month  
+* 1378 rental listings on Zameen.com including a low cost apartment at 22,000 Pkr per month 
  https://www.zameen.com/Rentals.html Zameen.com
-* 3 Bed 3 Bath in EME for 55 Thousand Pkr per month
+ https://www.zameen.com/Property/low_cost_sector_low_cost_block_d_flat_for_rent_situated_in_low_cost_block_d-43438529-8189-4.html low cost apartment
+
 
 ## Restaurants 🍽️
-# Haideri Bong Paye at the historic Dharampura. A hearty meal that might actually kill you with cholestrol. 
- image photos/
+# Quetta Paratha in the Walls of Old lahore.
+ https://www.google.com/search?q=Quetta%20paratha%20lahore&source=lmns&hl=en&sa=X&ved=2ahUKEwikwcrbktf8AhWUhf0HHbv0C9wQvS56BAgLEAE&tbs=lf:1,lf_ui:9&tbm=lcl&sxsrf=AJOqlzVoLL3sVM-UhlCPVoAqA671uzSLLw:1674251995363&rflfq=1&num=10&rldimm=5512950611466347563&lqi=ChVRdWV0dGEgcGFyYXRoYSBsYWhvcmVIyI_389awgIAIWiEQABABGAAYARgCIhVxdWV0dGEgcGFyYXRoYSBsYWhvcmWSARRicmVha2Zhc3RfcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOdE1WQklVMjEzUlJBQqoBNxABGh8QASIbWmjOsbXVM-8WXR0m4HaVtPgdbogXAy43-6Z6KhIiDnF1ZXR0YSBwYXJhdGhhKAA&phdesc=UnNqwxATnTk&rlst=f Quetta Paratha
 
-## BBQ and Chicken 🍗
-BBQ joints all over Lahore raise prices drastically due to the acute rise in chicken prices
+image photos/Quetta-Paratha.png
+ 
+image photos/Tom-Yam.jpg
+* Tom Yom Soup at HotPot
+ https://www.facebook.com/The-Hotpot-Restaurant-112013371363481/ HotPot
+
+html <br>
+html <br>
+html <br>
+
+## Fruit Prices 🥭
+
 
 treeTable
  row
@@ -98,73 +120,83 @@ treeTable
   price
    325-340 pkr/kg
  row
-  type Musami
+  type Chiku
   price
-   125-130 pkr/kg      
+   140-145 pkr/kg      
 
- source: https://lahore.punjab.gov.pk/system/files?file=retail%20fruit_215.jpeg
+ source: https://lahore.punjab.gov.pk/system/files?file=retail%20fruit_216.jpeg
 
 <br>
 
 ## Tech •⚬𓈒🎮🛸🫱👾🫱🛸🎮𓈒⚬•
-image photos/ahsan.jpg
- caption Government To Relaunch Youth Laptop Scheme With Rs.10 Billion Budget- Ahsan Iqbal
-  https://www.techjuice.pk/government-to-relaunch-youth-laptop-scheme-with-rs-10-billion-budget-ahsan-iqbal/ Youth Laptop Scheme
+image photos/startups.jpg
+ caption Many Major Pakistani Startups Experienced Acquisitions In 2022
+  https://www.techjuice.pk/many-major-pakistani-startups-experienced-acquisitions-in-2022/ Pakistani Startups Experienced Acquisitions
 
 <br>
 
-image photos/IT-Minister.png
- caption IT Minister Warns About Service Disruptions as Importing Difficulties Continue
-  https://www.techjuice.pk/it-minister-warns-about-service-disruptions-as-importing-difficulties-continue/ Importing Difficulties Continue
-
 
 ## Politics 📋🖋 📝
-* Maryam Nawaz to land in Lahore on Jan 29, confirms Safdar
- https://www.nation.com.pk/19-Jan-2023/maryam-nawaz-to-land-in-lahore-on-jan-29-confirms-safdar Maryam Nawaz to land in Lahore
+* مفتاح اسماعیل to hold conferrence in Lahore among many other cities. The purpose is to discuss the future of Pakistan's economy and structural reforms.
+ https://www.urdupoint.com/pakistan/news/lahore/important-news/live-news-3441251.html hold conferrence in Lahore among many other cities
 
 ## Environment 🌳🏭😷
-* Lahore remains one of the most polluted cities in the world with the Lahore AQI at an average of 185.
+* Lahore remains one of the most polluted cities in the world with the Lahore AQI at an average of 168.
  https://www.iqair.com/pakistan/punjab/lahore Lahore AQI
 
 <br>
 
 ## Foreign Exchange 🌐💰💸
-* SBP-held foreign exchange reserves rise $258 mn, now stand at $4.6bn
- https://www.brecorder.com/news/40221220 $258 mn
+* Pakistan to de-peg dollar from the Dar-Peg and trade at the open market. IMF provides guidelines for new rounds.
+ https://tribune.com.pk/story/2396927/govt-ready-to-discuss-rupee-free-float-with-imf de-peg dollar from the Dar-Peg
+
+## Economy 📈📉
+
+* Gas, Electricity price hikes and a multitude of taxes to be imposed in part of the IMF scheme
+ https://twitter.com/ImranRiazKhan/status/1616511127705292802 multitude of taxes to be imposed in part of the IMF scheme
+
+* LHC imposes Rs0.2m fine on markets flouting 10pm closure order
+ https://tribune.com.pk/story/2396960/lhc-imposes-rs02m-fine-on-markets-flouting-10pm-closure-order LHC imposes Rs0.2m fine on markets flouting 10pm closure order
+
+* 
 
 <br>
 
 ## Gather the Town 🏛️🏛️🏛️ 🎉🎉🎉
-image photos/MelaLahore.PNG
- caption GUR MELA 2023
-* Lahore Gur (Jaggery) Festival 2021
- https://www.facebook.com/events/618993539207587/?paipv=0&eav=AfYoyE45Tsjoqc-NtHGaleeUvPt1LUdHeaJYQyF_sk-dh77m2FFEgsZGEHLJZePcM5A&_rdr Lahore Gur (Jaggery) Festival 
+
+* Pakistan TechHRFest 2023 to be held in Lahore on 21st of Jan
+ https://www.facebook.com/events/862513344954587/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22search_results%22%2C%22surface%22%3A%22bookmark_search%22%7D]%2C%22ref_notif_type%22%3Anull%7D Pakistan TechHRFest 2023
+
+<br>
+
+image photos/ArtsMela.jpg
+ caption Pakistan Art & Craft Expo 8th Edition, Held in Emporium Mall, Lahore  
+  https://www.facebook.com/events/862513344954587/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22search_results%22%2C%22surface%22%3A%22bookmark_search%22%7D]%2C%22ref_notif_type%22%3Anull%7D Pakistan Art & Craft Expo 8th Edition, Held in Emporium Mall, Lahore 
 
 ## Schools 🏫📚🏫
 
-* The Lahore High Court, Rawalpindi bench, on Wednesday ordered the provincial government to formulate a policy for providing nutritious meals to children at schools of Punjab by expanding the fundamental rights to children under the Constitution.
- https://www.dawn.com/news/1732439 ordered the provincial government to formulate a policy for providing nutritious meals 
+* 3.5m Displaced Students Require Support To Resume Education: PCE
+ https://www.urdupoint.com/en/pakistan/35m-displaced-students-require-support-to-re-1628630.html
 
 html <p>Captitalism 🏦💰💸 VS Socialism 🏛️🏛️🏛️</p> 
 html <div style="font-size: 32px; font-weight: bold; text-align: center; color: #333; padding: 20px; background-color: #f5f5f5;">
     <a href="https://www.rozee.pk/free-cv-review" style="text-decoration: none; color: #333;">Karl Polanyi & Neoclassical Economics</a>
 </div>
-* Professor of Social Sciences, Taimur Rehman, of Lahore University of Management Sciences (LUMS) discussed the negative effects of commodification on labor and argued against capitalism in his analysis of Pakistan's deteriorating economic condition. He highlighted the actions of Mifta Ismail and Ishaq Dar, Dar's obsession to pegging of the US dollar, and the role of the International Monetary Fund in Pakistan's economic devastation. 
- https://www.youtube.com/watch?v=nI3yujgrDXE discussed the negative effects of commodification on labor and argued against capitalism in his analysis of Pakistan's deteriorating economic condition
-youTube https://www.youtube.com/embed/nI3yujgrDXE
+* Professor of Social Sciences, Taimur Rehman, of Lahore University of Management Sciences (LUMS) discussed  Eric Hobsbawm on the General Crisis of Europe in the 17th Century 
+ https://www.youtube.com/watch?v=dV5VQ84RtsU Eric Hobsbawm on the General Crisis of Europe in the 17th Century 
+youTube https://www.youtube.com/watch?v=dV5VQ84RtsU
 
 * 
-* Kinnard College Debating Championships
- https://www.facebook.com/events/1541751119672028 Kinnard College Debating Championships
 
-<div style="font-size: larger; font-style: italic;position: relative;"><center>Kinnard College Debating Championships 2023 <br> From the 17th of Jan <br> till 20th Jan<br> @ Kinnard College Jail Road<center><div style="content:'';background-image: url('photos/scroll_yolo.png');background-size: cover;background-repeat: no-repeat;background-position: center;position: absolute;top:0;left:0;width:100%;height:100%;z-index:-1;"></div></div>
+
+comment <div style="font-size: larger; font-style: italic;position: relative;"><center>Kinnard College Debating Championships 2023 <br> From the 17th of Jan <br> till 20th Jan<br> @ Kinnard College Jail Road<center><div style="content:'';background-image: url('photos/scroll_yolo.png');background-size: cover;background-repeat: no-repeat;background-position: center;position: absolute;top:0;left:0;width:100%;height:100%;z-index:-1;"></div></div>
 
 
 
 ## Airport Lahore
  https://lahoreairport.com.pk/Schedule.aspx Airport Lahore
  
-* 40 planes arriving today: mostly from Dubai, Doha, and Abu Dhabi
+* 42 planes arriving today: mostly from karachi, Medinah, Dammam
  https://lahoreairport.com.pk/Schedule.aspx arriving
 
 
@@ -173,29 +205,28 @@ youTube https://www.youtube.com/embed/nI3yujgrDXE
 
 
 
-* Lahore: Man who attempted to rape minor arrested 
- https://www.urdupoint.com/pakistan/news/lahore/national-news/live-news-3438687.html Lahore: Man who attempted to rape minor arrested 
+* Lahore: Woman appointed as SHO of police station as lahore police displays it progressive culture
+ https://twitter.com/Lahorepoliceops/status/1616506125020499973 
 
-* 35 year old dies while crossing train tracks
- https://www.urdupoint.com/pakistan/news/lahore/national-news/live-news-3439504.html 35 year old
+* Lahore: Police arrest man who threw away goods of street vendor after a quarrel.
+ https://www.urdupoint.com/pakistan/news/lahore/important-news/live-news-3441303.html arrest man who threw away goods
 
 ## Subreddit
  https://old.reddit.com/r/Lahore Subreddit
 * There were 24 new posts yesterday in the Lahore including:
-* Offering reward for missing male persian cat, about 5 years old
- https://www.reddit.com/gallery/10f75wu male persian cat
+* Help out with finding used original branded apparels (hoodies, trousers, polo shirts)
+ https://old.reddit.com/r/Lahore/comments/10h5czq/looking_for_a_place_where_i_can_find_used/ original branded apparels
 
 ## Podcasts & محفل 🎙️
-youTube https://www.youtube.com/embed/yMBaiZ7fCPc
+youTube https://www.youtube.com/embed/7QLXWOKHeLc
 html <br>
 html <br>
 
-* <div style="color: green;">Mausiqee ke Rangg, Naujuwan Fankaron ke Sangg | Shahsawar Khan and Alisha Khan <br>Soul full Music presented my team at The Black Hole Islamabad. TBH was founded by Pervez Hoodbhoy. PH has a decades long teaching experience and was a close friend/aide of the late nobel laureate Dr. Abdus Salam. TBH is community to discuss Science ⚗️ philosophy 🧠🏥⚕️ music  🎵 🎶  </div>
+* <div style="color: green;"> Governance of Islam in Pakistan: An Institutional Study of the Council of Islamic Ideology BOOK LAUNCH 📜 <br> This book provides a systematic account of how interactions between public and private bodies direct the regulation and standardization of Islam in Pakistan, one of the largest Muslim-majority states in the world, by examining the institutional development of the Council of Islamic Ideology ☪️</div>
 html <br>
 html <br>
 
-* 📜 ہجلے ہوئے آسمان کے پرندے ۔(  Birds of a burnt sky  ) BOOK LAUNCH 📜 
- https://www.youtube.com/watch?v=F3UV6QTtHOU BOOK LAUNCH
+## TBH was founded by Pervez Hoodbhoy. PH has a decades long teaching experience and was a close friend/aide of the late nobel laureate Dr. Abdus Salam. TBH is community to discuss Science ⚗️ philosophy 🧠🏥⚕️ music  🎵 🎶  
 
 
 
