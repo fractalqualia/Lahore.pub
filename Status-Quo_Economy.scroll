@@ -1,0 +1,107 @@
+import header.scroll
+
+replace TODAY_NAME Sunday
+replace TODAYS_DATE 1-22-2023
+replace YESTERDAYS_DATE 1-21-2023
+date 2023.01.19
+title The Lahori Pub - TODAY_NAME, January 22nd, 2023
+
+import dailyHeader.scroll
+
+
+# Pakistan Economy: A welfare state for the rich.
+ 
+* The following is an interpreation and summary of the following youtube
+
+
+## Elite Club under Armed Forces management pays Rs5,000 per annum lease for 1,030 kanals state land
+
+image photos/gymkhana.png
+ caption LAHORE: The Lahore High Court has dismissed a plea of the Lahore Gymkhana Club (LGC) against a decision of the Punjab Information Commission (PIC), which directed the club to furnish details sought by citizens under the law of transparency and the right to information.
+  https://fractalqualia-shiny-space-trout-wpqj6xj7rg9f57pj-5500.preview.app.github.dev/
+
+endSnippet
+
+<a href="https://www.unicef.org/pakistan/reports/evaluation-report-united-nations-maternal-and-child-stunting-reduction-programme" style="text-decoration: underline; color:black;" title="Take me to the source"> <div style="font-size:14px;"> A large proportion of Pakistan’s children are stunted (one in every three children), which represents an estimated 6% of the global stunting caseload- UNICEF</div></a>
+
+## The following text provides an interpretation and summary of the content presented in this youtube video by Pakistanomy
+ https://www.youtube.com/watch?v=mhq8UTUzUZQ this youtube video by Pakistanomy
+
+* Lets take a look why Pakistan is at the verge of an economic default.
+ https://tribune.com.pk/story/2397052/a-debt-trap-spanning-75-years-pakistans-journey-towards-a-sovereign-default default
+
+## First let's take a look at some stats about Pakistan's economy 📊
+
+treeTable
+ row
+  metric Population 🧑🏽‍🤝‍🧑🏽
+  Qty
+   230 million
+ row
+  metric GDP 📈
+  Qty
+   300 Billion USD
+ row
+  metric GDP per Capita 🧑🏽‍💻
+  Qty
+    ~4,500 USD
+
+## Here's a breakdown of the economy by sector
+
+treeTable
+ row
+  metric Agriculture
+  Qty
+   20%
+ row
+  metric Industry
+  Qty
+   20%
+ row
+  metric Services
+  Qty
+   60%
+
+* In Agriculture; Wheat, Rice, Cotton, Sugarcane etc are the main crops. 🌾
+* In Industry; Textile, Cement, Steel etc are the main industries. 🏭
+* In Services; Retail, Tourism etc. are the main services. 🏪
+
+## Expenditure: Pakistan is a consumptiion based economy 👩🏽‍💻💰 | 📈
+
+## Reasons for decline of Pakistani Agriculture 🌾
+
+html <div style="border: 1px solid black; padding: 20px; margin: 15px;"> <ol> <li><a href="https://tribune.com.pk/story/2396064/world-owes-pakistan-30b-a-year-for-polluting">Climate Change exacerbates the crisis</a></li><li>Government intervention/ No development</li> <li><a href="https://www.linkedin.com/pulse/agricultural-decline-pakistan-adeel-ahmad/">Lack of Investment</a></li> </ol> </div>
+
+
+## <i>In South Asia,</i> Pakistan is only to Afghansitan in terms lack of Youth literacy  👨‍🎓
+*Pakistan's literacy rate is 62.3% while Afghanistan's is 37.3%*
+ https://tribune.com.pk/letter/2254353/consequences-of-illiteracy
+
+It is important to note that, literacy is defined as the ability to read and write. It does not include trivial skills like basic math which is a need in even the most basic of jobs.
+
+## Since 2019 Pakistan's inflation has been 69.5% 📈
+
+## ~60% of Pakistan's population is below the age of 30 👨‍🎓
+image photos/youth.PNG
+  caption Pakistan needs to generate 1.3m more jobs every year: UNDP report
+   https://tribune.com.pk/story/1716529/pakistan-needs-generate-1-3m-jobs-every-year-undp-report
+
+## Pakistan has one the the lowest savings rate in the world 💰
+image photos/savings-rate.PNG
+
+## Pakistan is not an integral part of the global supply chain 🌎
+Pakistan imports a lot of energy and exports basic goods and not technical goods.
+
+## Remittences from Pakistanis abroad are one of the main source of foreign inflow of USD 💰
+
+The majority of the foreign Remittences come from the Middle East and other Gulf countries, however overseas Pakistanis from the West get more representation in the discourse of the Pakistani economy than they deserve.
+
+## In 1971, when Pakistan and Bangladesh split, Pakistan's GDP Per Capita was 1.5 times that of Bangladesh. Today, Bangladesh's GDP is ~50% higher than that of Pakistan's. 📈  🇧🇩 VS 🇵🇰
+
+image photos/pvb.PNG
+ caption Pakistan vs Bangladesh
+  https://www.worldometers.info/gdp/gdp-by-country/
+
+
+
+import dailyFooter.scroll
